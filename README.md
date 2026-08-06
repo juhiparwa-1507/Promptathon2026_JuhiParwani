@@ -1,31 +1,30 @@
-# Promptathon2026_JuhiParwani
+# 🏥 Promptathon2026_JuhiParwani
 
-## Project Title
+# Smart Hospital Command Center
+### Powered by Autonomous Multi-Agent AI with Shared Memory
+
+---
+
+## 📌 Project Title
+
+Smart Hospital Command Center – An Autonomous Multi-Agent AI Healthcare Assistant
+
+---
 
 ## Problem Statement
 
-(To be updated during the competition)
+Healthcare systems face challenges such as delayed patient prioritization, manual patient intake, and inefficient sharing of patient information.
+
+This project aims to build an AI-powered hospital command system that automates patient intake, performs intelligent triage, assists doctors, and maintains patient context using shared memory.
+
+---
 
 ## Solution Overview
 
-(To be updated during the competition)
+Smart Hospital Command Center uses multiple autonomous AI agents that collaborate to manage healthcare workflows.
 
-## Agentic AI Architecture
+The system includes:
 
-## AI Workflow
-
-## AI Models & Tools Used
-
-## Prompt Engineering Strategy
-
-## Agent Capabilities
-
-## Technologies Used
-
-## Installation & Setup
-
-## How to Run
-
-## Screenshots
-
-## Future Improvements
+- Reception Agent for patient intake and triage
+- Doctor Agent for diagnosis assistance and medical reasoning
+- Memory Agent for storing and sharing patient context
