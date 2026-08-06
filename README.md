@@ -65,4 +65,7 @@ Capabilities:
 
 
 ## Agent Communication Flow
+## Key Innovation
+
+Unlike traditional healthcare systems, this project uses multiple autonomous AI agents that collaborate through shared memory to improve patient workflow automation.
 
